@@ -1,4 +1,4 @@
-#ICML 2026 Rebuttal: Additional Experimental Results
+# ICML 2026 Rebuttal: Additional Experimental Results
 This repository contains the full results and ablation studies referenced in our rebuttal.
 
 Table 1: Graph Regularity Ablation. Results comparing Cayley-Encoder vs. BA-Graph.
