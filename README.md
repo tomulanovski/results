@@ -1,7 +1,7 @@
 # ICML 2026 Rebuttal: Additional Experimental Results
 This repository contains the full results and ablation studies referenced in our rebuttal.
 
-**Table 1:**: Graph Regularity Ablation. Results comparing Cayley-Encoder vs. BA-Graph.
+**Table 1:** Graph Regularity Ablation. Results comparing Cayley-Encoder vs. BA-Graph.
 
 **Table 2:** LoRa comparison: Cayley-Encoder vs. LoRA on STS tasks. Both methods were trained only on STS-B and inferred zero-shot on all other tasks.
 
