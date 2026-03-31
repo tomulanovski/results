@@ -12,3 +12,9 @@ This repository contains the full results and ablation studies referenced in our
 **Table 5:** Layer-to-Node Mapping Shuffling.
 
 **Table 6:** Pooled vs. All-Tokens on Pythia 14 million parameters. 
+
+**Table 7:** GPT-2 XL results on classification tasks.
+
+**Table 8:** GAT results on classification tasks.
+
+**Table 9:** GAT results on STS tasks.
